@@ -1,2 +1,2 @@
 # Condicionais
-Exercícios de laços condicionais - Generation
+Exercícios de laços condicionais - Generation - if/switch
