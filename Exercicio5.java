@@ -13,12 +13,12 @@ public class Exercicio5 {
 		float valor_total;
 		
 		System.out.print("Cardápio do Gyo");
-		System.out.print("\n\nCachorro-Quente - R$10,00\n");
-		System.out.print("\nX-Salada - R$15,00\n");
-		System.out.print("\nX-Bacon - R$18,00\n");
-		System.out.print("\nBauru - R$ 12,00\n");
-		System.out.print("\nRefrigerante - R$8,00\n");
-		System.out.print("\nSuco de Laranja - R$13,00\n");
+		System.out.print("\n\n1. Cachorro-Quente - R$10,00\n");
+		System.out.print("\n2.X-Salada - R$15,00\n");
+		System.out.print("\n3.X-Bacon - R$18,00\n");
+		System.out.print("\n4.Bauru - R$ 12,00\n");
+		System.out.print("\n5.Refrigerante - R$8,00\n");
+		System.out.print("\n6.Suco de Laranja - R$13,00\n");
 		
 		System.out.print("\n\nEscolha seu produto: ");
 		produto = leia.nextInt();
